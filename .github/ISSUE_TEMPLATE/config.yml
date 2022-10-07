@@ -3,5 +3,5 @@ contact_links:
   - name: Add new ToDo
     about: made by config.yml
     # edit {username} and {repo} for your environment
-    url: https://github.com/ttakuya50/issue-template/issues/new?template=custom.md&projects=ttakuya50/1&labels=todo
+    url: https://github.com/ttakuya50/issue-template/issues/new?template=custom.md&projects=ttakuya50/issue-template/1&labels=todo
 
